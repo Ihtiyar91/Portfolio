@@ -6,9 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h3>
 
-![132](https://user-images.githubusercontent.com/103990001/189622532-b8d144eb-0172-440a-845c-77e01e953a7f.jpg)
-
-|   **![email](https://texterra.ru/bitrix/templates/texterra/img/image/mail-icon.svg "ikhtiyargaliev@gmail.com") :<ikhtiyargaliev@gmail.com>**  -  **[```t.me```](https://t.me/ikhtiyarchik)**
+![1111](https://user-images.githubusercontent.com/103990001/189623528-b7c1a5ec-1abd-4366-8f32-954012f3de94.jpg)|   **![email](https://texterra.ru/bitrix/templates/texterra/img/image/mail-icon.svg "ikhtiyargaliev@gmail.com") :<ikhtiyargaliev@gmail.com>**  -  **[```t.me```](https://t.me/ikhtiyarchik)**
   |---------------------------------------------------------------------------------------------------------------:|:-------------------------:|
   
  #### :man_technologist:. Вот мое [```резюме```]().
